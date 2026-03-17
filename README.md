@@ -1,6 +1,6 @@
 # AI Traffic Counter (YOLOv8 + Streamlit)
 
-Dự án môn học: **Chuyên đề 2**
+Dự án môn học: **Chuyên đề 2** 
 Tác giả: **Nhóm 18**
 
 ## 1. Giới thiệu
